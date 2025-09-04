@@ -1,0 +1,18 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.dad {
+  background-color: #0e0e0e;
+
+  header {
+    background-color: #0e0e0e;
+
+    i {
+      color: white;
+    }
+  }
+
+  .spess {
+    background-color: #ffffff3b;
+    height: 1px;
+  }
+}

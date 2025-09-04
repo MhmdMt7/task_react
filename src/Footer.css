@@ -1,0 +1,23 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+footer {
+  background-color: black;
+  color: white;
+  padding: 50px 0;
+  h1 {
+    color: #ffffff;
+  }
+  nav {
+    a {
+      text-decoration: none;
+      color: #ffffff;
+    }
+  }
+  #icon {
+    color: white;
+    font-size: 30px;
+    margin-right: 20px;
+    &:hover {
+      color: #007bff;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+.sectionTow {
+  background-color: white;
+  img {
+    top: -75px;
+    left: 70px;
+    
+  }
+
+  .content1 {
+    padding: 1rem;
+    background-color: #f1f1f1;
+
+
+    h6 {
+      color: #000000;
+    }
+
+    p {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      color: #00000081;
+    }
+
+    i {
+      color: #d87d4a;
+      font-weight: 700;
+    }
+  }
+}

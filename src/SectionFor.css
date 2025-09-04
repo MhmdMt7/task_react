@@ -1,0 +1,29 @@
+.sectionFor {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  .imgDiv {
+    img {
+      left: 0;
+      top: -100px;
+      border-radius: 20px;
+      height: 320px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  }
+}
+
+.contentDiv {
+  right: 0;
+}
+
+.betoo{
+    color: black !important;
+    background-color: #d3d5d6 !important;
+}
