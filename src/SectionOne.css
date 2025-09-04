@@ -14,7 +14,7 @@
 
   .imgHead {
     height: 100vh;
-    background: url("./public/specr.png");
+    background: url(./assets/specr.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

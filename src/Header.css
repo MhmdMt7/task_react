@@ -16,3 +16,10 @@
     height: 1px;
   }
 }
+
+
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}

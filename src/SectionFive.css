@@ -22,7 +22,7 @@
   .sectionfive-right {
     width: 540px;
     height: 320px;
-    background: url(./public/Bitmap.png) no-repeat center;
+    background: url(./assets/Bitmap.png) no-repeat center;
     border-radius: 1rem;
   }
 }

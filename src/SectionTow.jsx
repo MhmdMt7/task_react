@@ -1,4 +1,7 @@
 import "./SectionTow.css";
+import speacarHead from "./assets/speacarHead.png";
+import soot from "./assets/soot.png";
+import iboooodz from "./assets/iboooodz.png";
 export default function SectionTow() {
   return (
     <>
@@ -8,8 +11,8 @@ export default function SectionTow() {
             <div className="imgTow col-12 position-relative">
               <img
                 className=" col-4 position-absolute"
-                src="./public/speacarHead.png"
-                alt=""
+                src={speacarHead}
+                alt="speacarHead"
               />
             </div>
             <div className="content1 col-12 d-flex flex-column align-items-center pt-5 ">
@@ -26,9 +29,7 @@ export default function SectionTow() {
             <div className="imgTow col-12 position-relative">
               <img
                 className="col-4 position-absolute"
-                src="./public/specar2.png"
-                alt=""
-              />
+                src={soot} alt="soot"/>
             </div>
             <div className="content1 col-12 d-flex flex-column align-items-center pt-5">
               <h6>SPEAKERS</h6>
@@ -44,8 +45,8 @@ export default function SectionTow() {
             <div className="imgTow col-12 position-relative">
               <img
                 className="col-5 position-absolute "
-                src="./public/iboooodz.png"
-                alt=""
+                src={iboooodz}
+                alt="iboooodz"
               />
             </div>
             <div className="content1 col-12 d-flex flex-column align-items-center pt-5">

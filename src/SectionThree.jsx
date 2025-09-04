@@ -1,4 +1,5 @@
 import "./SectionThree.css";
+import imgSectionThree from "./assets/imgSectionThree.png";
 export default function SectionThree() {
   return (
     <>
@@ -7,9 +8,9 @@ export default function SectionThree() {
           <div className=" propertis sectionThree container col-12 d-flex align-items-center justify-content-center gap-5 ">
             <div className="imgDiv col-6 d-flex ">
               <img
-                className=" col-10 d-flex  "
-                src="./public/imgSectionThree.png"
-                alt=""
+                className="imgSectionThree  col-10 d-flex  "
+                src={imgSectionThree}
+                alt="imgSectionThree"
               />
             </div>
             <div className="contentThree d-flex flex-column justify-content-center gap-1">
