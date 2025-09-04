@@ -3,7 +3,7 @@ import Header from "./Header";
 import Sectionfive from "./SectionFive";
 import SectionFor from "./SectionFor";
 import SectionOne from "./SectionOne";
-import SectionSix from "./Sectionsix";
+import SectionSix from "./SectionSix";
 import SectionThree from "./SectionThree";
 import SectionTow from "./SectionTow";
 
